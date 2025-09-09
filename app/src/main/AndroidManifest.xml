@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Test_PPTR" >
         <activity
-            android:name=".registro"
+            android:name=".Calculadora"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
