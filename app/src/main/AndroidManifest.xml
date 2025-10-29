@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Test_PPTR" >
         <activity
-            android:name=".Main_sql"
+            android:name=".SensorMov"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,10 +22,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-         <activity
-             android:name=".Search_Delate_Update"
-             android:exported="true" >
-         </activity>
      </application>
 
  </manifest>
